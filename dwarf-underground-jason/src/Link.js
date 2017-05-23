@@ -6,16 +6,14 @@ class Link extends Component{
         ev.preventDefault()
         return(
             <div className="article-links">
-               <h3>yay</h3>
+               <h3>nay</h3>
             </div>
         )
     }
-
     post(ev){
         ev.preventDefault()
         console.log('ok')
     }
-
     render(){
         return(
             <div>
